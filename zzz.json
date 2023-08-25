@@ -1,0 +1,357 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+            "correct_answer": "Multiplayer Online Battle Arena (MOBA)",
+            "incorrect_answers": [
+                "Real Time Strategy (RTS)",
+                "First Person Shooter (FPS)",
+                "Role Playing Game (RPG)"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+            "correct_answer": "Scar-20\/G3SG1",
+            "incorrect_answers": [
+                "M4A1",
+                "AWP",
+                "R8 Revolver"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these features was added in the 1994 game &quot;Heretic&quot; that the original &quot;DOOM&quot; could not add due to limitations?",
+            "correct_answer": "Looking up and down",
+            "incorrect_answers": [
+                "Increased room sizes",
+                "Unlimited weapons",
+                "Highly-detailed textures"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what year was the original Sonic the Hedgehog game released?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1989",
+                "1993",
+                "1995"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Clash Royale&quot; what is Arena 4 called?",
+            "correct_answer": "P.E.K.K.A&#039;s Playhouse",
+            "incorrect_answers": [
+                "Barbarian Bowl",
+                "Spell Valley",
+                "Royal Arena"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What Nationality is D.Va from Overwatch?",
+            "correct_answer": "Korean",
+            "incorrect_answers": [
+                "Japanese",
+                "Chinese",
+                "Vietnamese "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was &quot;Garry&#039;s Mod&quot; released?",
+            "correct_answer": "December 24, 2004",
+            "incorrect_answers": [
+                "November 13, 2004",
+                "December 13, 2004",
+                "November 12, 2004"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+            "correct_answer": "Spy",
+            "incorrect_answers": [
+                "Heavy",
+                "Medic",
+                "Pyro"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Overwatch,&quot; an allied McCree will say &quot;Step right up&quot; upon using his ultimate ability Deadeye.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
+            "correct_answer": "Shoot &#039;Em Up",
+            "incorrect_answers": [
+                "Point &amp; Click",
+                "MMORPG",
+                "Simulation"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+            "correct_answer": "Charcoal",
+            "incorrect_answers": [
+                "Coal",
+                "Wheat",
+                "String"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What name does the little headcrab in &quot;Half Life 2&quot; have?",
+            "correct_answer": "Lamarr",
+            "incorrect_answers": [
+                "Jumperr",
+                "Drett",
+                "Jerry"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+            "correct_answer": "Hell Knight",
+            "incorrect_answers": [
+                "Mancubus",
+                "Pinky",
+                "Arch-Vile"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was &quot;Antichamber&quot; released?",
+            "correct_answer": "2013",
+            "incorrect_answers": [
+                "2012",
+                "2014",
+                "2011"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2014",
+                "2013",
+                "2011"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
+            "correct_answer": "The Gage Weapon Pack #1",
+            "incorrect_answers": [
+                "The Overkill Pack",
+                "The Gage Chivalry Pack",
+                "The Gage Historical Pack"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+            "correct_answer": "Wait 3 Minutes",
+            "incorrect_answers": [
+                "Enter the password &quot;Fly Honey&quot;",
+                "Enter the password &quot;Master Belch Rules&quot;",
+                "Enter the password &quot;Mr Saturn Drools&quot;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the main protagonist of &quot;Ace Combat Zero: The Belkan War&quot;?",
+            "correct_answer": "Cipher",
+            "incorrect_answers": [
+                "Mobius 1",
+                "Blaze",
+                "Pixy"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many unique items does &quot;Borderlands 2&quot; claim to have?",
+            "correct_answer": "87 Bazillion ",
+            "incorrect_answers": [
+                "87 Million",
+                "87 Trillion",
+                "87 Gazillion "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of Samantha Maxis&#039; dog?",
+            "correct_answer": "Fluffy",
+            "incorrect_answers": [
+                "Baxter",
+                "Fido",
+                "Henry"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
+            "correct_answer": "The Elder Scrolls",
+            "incorrect_answers": [
+                "Lord of the Rings",
+                "The Witcher",
+                "Neverwinter Nights"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main protagonist in &quot;Xenoblade Chronicles&quot;?",
+            "correct_answer": "Shulk",
+            "incorrect_answers": [
+                "Reyn",
+                "Fiora",
+                "Dunban"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT a Nintendo game console?",
+            "correct_answer": "Dreamcast",
+            "incorrect_answers": [
+                "SNES",
+                "Wii",
+                "Switch"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+            "correct_answer": "7.62mm",
+            "incorrect_answers": [
+                "5.56mm",
+                "9mm",
+                ".300 Magnum"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+            "correct_answer": "Ace Combat",
+            "incorrect_answers": [
+                "Jet Set Radio",
+                "Deus Ex",
+                "Crimson Skies"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the ARPG &quot;Path of Exile,&quot; what is the highest amount of sockets that an item can have?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "5",
+                "4",
+                "8"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which U.S. state is Far Cry 5&#039;s fictional setting &#039;Hope County&#039; located?",
+            "correct_answer": "Montana",
+            "incorrect_answers": [
+                "Idaho",
+                "Wyoming",
+                "North Carolina"
+            ]
+        }
+    ]
+}
